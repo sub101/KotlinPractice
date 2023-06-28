@@ -1,5 +1,6 @@
-import java.util.*
+class Main {
+}
 
-fun main(args: Array<String>) = with(Scanner(System.`in`)){
+fun main(args: Array<String>){
     print("Hello World!")
 }
